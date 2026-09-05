@@ -1,3 +1,15 @@
+# This moved
+
+Everything here now lives inside **[AIPM-Complete-Setup](https://github.com/BrettZuke/AIPM-Complete-Setup)**, in `01-find-leads/youtube-creator-scraper`.
+
+Clone that instead. It is kept up to date and scanned before every push; this copy is not.
+
+```bash
+git clone https://github.com/BrettZuke/AIPM-Complete-Setup.git
+```
+
+---
+
 # YouTube Creator Scraper
 
 Find qualified YouTube creators in your niche and export them to a CSV
